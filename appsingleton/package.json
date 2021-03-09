@@ -1,0 +1,13 @@
+{
+  "name": "appsingleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appclient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node appclient.js"
+  },
+  "keywords": [],
+  "author": "Dani Asensio",
+  "license": "ISC"
+}
